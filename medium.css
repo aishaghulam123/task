@@ -1,0 +1,19 @@
+.home .content {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+}
+
+.discover img{
+  
+    width: 100% !important;
+}
+
+@media(max-width:600px) {
+
+     .discover .main {
+        width: 100% !important;
+  
+    
+}   
+}
